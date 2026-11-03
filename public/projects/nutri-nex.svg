@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" role="img" aria-labelledby="title desc">
+  <title id="title">Experiência mobile de nutrição</title><desc id="desc">Ilustração de um celular com métricas de alimentação e formas orgânicas.</desc>
+  <rect width="1200" height="700" fill="#f4ead9"/><circle cx="1020" cy="160" r="225" fill="#d56b45" opacity=".9"/><circle cx="180" cy="594" r="250" fill="#b7d8b6"/>
+  <rect x="431" y="78" width="338" height="548" rx="45" fill="#17221e"/><rect x="453" y="112" width="294" height="480" rx="27" fill="#fffdf8"/><rect x="543" y="94" width="114" height="12" rx="6" fill="#fffdf8"/>
+  <text x="490" y="185" fill="#17221e" font-family="Arial, sans-serif" font-size="25" font-weight="700">Nutri Nex</text><circle cx="600" cy="310" r="76" fill="#b7d8b6"/><path d="M600 250c-20 25-39 43-39 68 0 23 17 42 39 42s39-19 39-42c0-25-19-43-39-68Z" fill="#d56b45"/><rect x="490" y="423" width="220" height="18" rx="9" fill="#d8d8cf"/><rect x="490" y="458" width="164" height="13" rx="6" fill="#d8d8cf"/><rect x="490" y="495" width="197" height="13" rx="6" fill="#d8d8cf"/>
+</svg>
