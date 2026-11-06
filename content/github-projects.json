@@ -7,10 +7,10 @@
     "homepageUrl": null,
     "language": null,
     "topics": [],
-    "updatedAt": "2026-11-03T17:48:11Z",
+    "updatedAt": "2026-11-06T17:44:38Z",
     "isArchived": false,
     "isFork": false,
-    "stars": 6,
+    "stars": 7,
     "readmeUrl": "https://github.com/Fabbio-Boli/codex-automation-recommender/readme",
     "readmeExcerpt": "Codex Automation Recommender A third-party plugin for OpenAI Codex that reviews a code repository and recommends useful Codex setup improvements. It helps you decide whether a project would benefit from clearer AGENTS.md instructions, reusable skills, custom agents, hooks, MCP servers, a plugin package, or an existing built-in Codex feature. Recommendations must be tied to evidence in the selected repository and include benefits, trade-offs, requirements, and next steps. The plugin is an advisor. It does not install tools, edit files, change settings, enable hooks, or connect services. You dec"
   },
