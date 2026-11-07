@@ -1,5 +1,20 @@
 [
   {
+    "name": "jungle-backend-challenge",
+    "fullName": "Fabbio-Boli/jungle-backend-challenge",
+    "description": "Distributed wagering processor — Bun, NestJS, PostgreSQL, SQS, inbox/outbox e testes de concorrência",
+    "htmlUrl": "https://github.com/Fabbio-Boli/jungle-backend-challenge",
+    "homepageUrl": null,
+    "language": "TypeScript",
+    "topics": [],
+    "updatedAt": "2026-11-06T21:22:03Z",
+    "isArchived": false,
+    "isFork": false,
+    "stars": 0,
+    "readmeUrl": "https://github.com/Fabbio-Boli/jungle-backend-challenge/readme",
+    "readmeExcerpt": "Jungle Gaming — processador de transações de apostas Este projeto implementa o backend financeiro do challenge Jungle Gaming. Ele recebe operações de carteiras, aplica as regras de apostas e registra um histórico consultável e reconciliável. O foco é processar mensagens repetidas, falhas e operações concorrentes sem duplicar ou perder movimentos financeiros. O repositório entrega uma API HTTP e processos independentes para consumo de mensagens, publicação de eventos e resolução de referências. Não inclui interface gráfica nem autenticação por provedor. A exceção à autenticação está prevista na"
+  },
+  {
     "name": "codex-automation-recommender",
     "fullName": "Fabbio-Boli/codex-automation-recommender",
     "description": "Independent, read-only plugin for OpenAI Codex that reviews repositories and recommends evidence-based setup improvements.",
